@@ -2,6 +2,8 @@
 
 A JavaScript library for building modern HTML presentations. deck.js is flexible enough to let advanced CSS and JavaScript authors craft highly customized decks, but also provides templates and themes for the HTML novice to build a standard slideshow.
 
+This version of deck.js puts all the JavaScript and CSS files into the `deck/` folder. This includes the core and extension CSS and JavaScript files as well as styles and transitions. You can start using deck.js by just copying the `deck/` folder and linking to the appropriate files.
+
 ## Dependencies
 
 - [jQuery](http://jquery.com)
